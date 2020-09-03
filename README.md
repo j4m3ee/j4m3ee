@@ -1,5 +1,5 @@
 ### Welcome to 'Snap' git profile 👋
-- 🔭 I’m currently studying at KMITL
+- 🔭 I’m currently studying at **KMITL**
 
 <!--
 **j4m3ee/j4m3ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
