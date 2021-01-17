@@ -1,4 +1,9 @@
 ### Welcome to [Snap!](https://j4m3ee.github.io/CV/cv) git profile 👋
+
+<a href="https://www.facebook.com/IJameSRW">
+  <img align="left" alt="Surawit | Facebook" width="20px" src="./assets/Facebook_logo_36x36.svg" />
+</a>
+
 - 🔭 I’m currently studying at **king mongkut's institute of technology ladkrabang** (KMITL).
 - 🏳️‍🌈 I living in **Thailand**.
 
