@@ -12,6 +12,7 @@
 
 - 🔭 I’m currently studying at **king mongkut's institute of technology ladkrabang** (KMITL).
 - 🏳️‍🌈 I living in **Thailand**.
+- 💬 Ask me about anything [here](https://github.com/j4m3ee/j4m3ee/issues)
 
 <br />
 
