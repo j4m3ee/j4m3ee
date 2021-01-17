@@ -1,6 +1,9 @@
 ### Welcome to 'Snap' git profile 👋
 - 🔭 I’m currently studying at **KMITL**
 
+[![Surawit github stats](https://github-readme-stats.vercel.app/api?username=j4m3ee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
 <!--
 **j4m3ee/j4m3ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
