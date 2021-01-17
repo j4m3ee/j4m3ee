@@ -3,6 +3,12 @@
 <a href="https://www.facebook.com/IJameSRW">
   <img align="left" alt="Surawit | Facebook" width="20px" src="./assets/Facebook_logo_36x36.svg" />
 </a>
+<a href="https://www.instagram.com/ijame.srw/">
+  <img align="left" alt="Surawit | Instagram" width="20px" src="./assets/ig.svg" />
+</a>
+
+<br />
+<br />
 
 - 🔭 I’m currently studying at **king mongkut's institute of technology ladkrabang** (KMITL).
 - 🏳️‍🌈 I living in **Thailand**.
