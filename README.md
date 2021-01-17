@@ -1,5 +1,6 @@
 ### Welcome to 'Snap' git profile 👋
-- 🔭 I’m currently studying at **KMITL**
+- 🔭 I’m currently studying at **king mongkut's institute of technology ladkrabang** (KMITL).
+- 🏳️‍🌈 I living in **Thailand**.
 
 [![Surawit github stats](https://github-readme-stats.vercel.app/api?username=j4m3ee&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
