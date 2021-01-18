@@ -1,10 +1,10 @@
-### Welcome to [Snap!](https://j4m3ee.github.io/CV/cv) git profile 👋
+## Welcome to [Snap!](https://j4m3ee.github.io/CV/cv) git profile 👋
 
 <a href="https://www.facebook.com/IJameSRW">
-  <img align="left" alt="Surawit | Facebook" width="30px" src="./assets/Facebook_logo_36x36.svg" />
+  <img align="left" alt="Surawit | Facebook" width="35px" src="./assets/Facebook_logo_36x36.svg" />
 </a>
 <a href="https://www.instagram.com/ijame.srw/">
-  <img align="left" alt="Surawit | Instagram" width="31px" src="./assets/ig.svg" />
+  <img align="left" alt="Surawit | Instagram" width="37px" src="./assets/ig.svg" />
 </a>
 
 <br />
