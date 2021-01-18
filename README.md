@@ -6,6 +6,10 @@
 <a href="https://www.instagram.com/ijame.srw/">
   <img align="left" alt="Surawit | Instagram" width="37px" src="./assets/ig.svg" />
 </a>
+<a href="https://discord.gg/MHs6cjG8">
+  <img align="left" alt="Surawit Discord" width="35px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
 
 <br />
 <br />
