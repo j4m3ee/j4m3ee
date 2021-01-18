@@ -1,4 +1,4 @@
-## Welcome to [Snap!](https://j4m3ee.github.io/CV/cv) git profile 👋
+<h2>Welcome to [Snap!](https://j4m3ee.github.io/CV/cv) git profile 👋</h2>
 
 <a href="https://www.facebook.com/IJameSRW">
   <img align="left" alt="Surawit | Facebook" width="35px" src="./assets/Facebook_logo_36x36.svg" />
