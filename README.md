@@ -29,6 +29,17 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=j4m3ee&layout=compact&theme=chartreuse-dark" />
 </a>
 
+---
+<p  align="center">
+  <img alt="vscode" src="./assets/vscode.gif" height="50">  
+  <img alt="react" src="./assets/react.gif" height="50"> 
+  <img alt="git" src="./assets/git.gif" height="50">
+  <img alt="node" src="./assets/node.gif" height="50">
+</p>
+
+---
+
+
 <!--
 **j4m3ee/j4m3ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,4 +53,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+credit : https://github.com/swaggytt/swaggytt
 -->
