@@ -1,16 +1,17 @@
+<div  align="center">
+
 # Welcome to [Snap!](https://j4m3ee.github.io/CV/cv) git profile 👋
 
-<p  align="center">
 <a href="https://www.facebook.com/IJameSRW">
-  <img align="left" alt="Surawit | Facebook" width="35px" src="./assets/Facebook_logo_36x36.svg" />
+  <img align="center" alt="Surawit | Facebook" width="35px" src="./assets/Facebook_logo_36x36.svg" />
 </a>
 <a href="https://www.instagram.com/ijame.srw/">
-  <img align="left" alt="Surawit | Instagram" width="37px" src="./assets/ig.svg" />
+  <img align="center" alt="Surawit | Instagram" width="37px" src="./assets/ig.svg" />
 </a>
 <a href="https://discord.gg/MHs6cjG8">
-  <img align="left" alt="Surawit Discord" width="35px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="center" alt="Surawit Discord" width="35px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-</p>
+</div>
 
 <br />
 <br />
