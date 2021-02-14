@@ -3,19 +3,19 @@
 # Welcome to [Snap!](https://j4m3ee.github.io/CV/cv) git profile 👋
 
 <a href="https://www.facebook.com/IJameSRW">
-  <img align="center" alt="Surawit | Facebook" width="40px" src="./assets/facebook.gif"/>
+  <img align="center" alt="Surawit | Facebook" width="45px" src="./assets/facebook.gif"/>
 </a>
 <a href="https://www.instagram.com/ijame.srw/">
-  <img align="center" alt="Surawit | Instagram" width="40px" src="./assets/instagram.gif" />
+  <img align="center" alt="Surawit | Instagram" width="45px" src="./assets/instagram.gif" />
 </a>
 <a href="https://discord.gg/MHs6cjG8">
-  <img align="center" alt="Surawit Discord" width="50px" src="./assets/discord.gif" />
+  <img align="center" alt="Surawit Discord" width="55px" src="./assets/discord.gif" />
 </a>
 <a href="https://twitter.com/SYosaeng">
-  <img align="center" alt="Surawit Discord" width="40px" src="./assets/twitter.gif" />
+  <img align="center" alt="Surawit Discord" width="45px" src="./assets/twitter.gif" />
 </a>
 <a href="https://www.youtube.com/channel/UCt_m-i4rhpKJlUNSW0zF80Q">
-  <img align="center" alt="Surawit Discord" width="40px" src="./assets/youtube.gif" />
+  <img align="center" alt="Surawit Discord" width="45px" src="./assets/youtube.gif" />
 </a>
 
 </div>
