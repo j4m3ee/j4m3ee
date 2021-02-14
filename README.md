@@ -1,15 +1,21 @@
-<div  align="center">
+<div  align="center" style="margin-bottom: 0px;">
 
 # Welcome to [Snap!](https://j4m3ee.github.io/CV/cv) git profile 👋
 
 <a href="https://www.facebook.com/IJameSRW">
-  <img align="center"  alt="Surawit | Facebook" width="35px" src="./assets/Facebook_logo_36x36.svg" />
+  <img align="center" style="padding-right: 10px;"  alt="Surawit | Facebook" width="40px" src="./assets/facebook.gif"/>
 </a>
 <a href="https://www.instagram.com/ijame.srw/">
-  <img align="center" style="padding-right: 10px; padding-left: 10px; "alt="Surawit | Instagram" width="37px" src="./assets/ig.svg" />
+  <img align="center" style="padding-right: 10px;" alt="Surawit | Instagram" width="40px" src="./assets/instagram.gif" />
+</a>
+<a href="https://twitter.com/SYosaeng">
+  <img align="center" style="padding-right: 10px;"  alt="Surawit Discord" width="40px" src="./assets/twitter.gif" />
+</a>
+<a href="https://www.youtube.com/channel/UCt_m-i4rhpKJlUNSW0zF80Q">
+  <img align="center" alt="Surawit Discord" width="40px" src="./assets/youtube.gif" />
 </a>
 <a href="https://discord.gg/MHs6cjG8">
-  <img align="center" alt="Surawit Discord" width="35px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="center" alt="Surawit Discord" width="50px" src="./assets/discord.gif" />
 </a>
 </div>
 
