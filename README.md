@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/ijame.srw/">
   <img align="center" alt="Surawit | Instagram" width="45px" src="./assets/instagram.gif" />
 </a>
-<a href="https://discord.gg/MHs6cjG8">
+<a href="https://discord.gg/jPnx84uQuu">
   <img align="center" alt="Surawit Discord" width="55px" src="./assets/discord.gif" />
 </a>
 <a href="https://twitter.com/SYosaeng">
