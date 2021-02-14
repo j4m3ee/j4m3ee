@@ -1,6 +1,6 @@
 <div  align="center">
 
-# Welcome to [Snap!](https://j4m3ee.github.io/CV/cv) git profile 👋
+# Welcome to [Snap!](https://j4m3ee.github.io/CV) git profile 👋
 
 <a href="https://www.facebook.com/IJameSRW">
   <img align="center" alt="Surawit | Facebook" width="45px" src="./assets/facebook.gif"/>
