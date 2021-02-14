@@ -1,15 +1,15 @@
-<div  align="center" style="margin-bottom: 0px;">
+<div  align="center" style="margin-bottom: -40px;">
 
 # Welcome to [Snap!](https://j4m3ee.github.io/CV/cv) git profile 👋
 
 <a href="https://www.facebook.com/IJameSRW">
-  <img align="center" style="padding-right: 10px;"  alt="Surawit | Facebook" width="40px" src="./assets/facebook.gif"/>
+  <img align="center" style="padding-right: 15px;"  alt="Surawit | Facebook" width="40px" src="./assets/facebook.gif"/>
 </a>
 <a href="https://www.instagram.com/ijame.srw/">
-  <img align="center" style="padding-right: 10px;" alt="Surawit | Instagram" width="40px" src="./assets/instagram.gif" />
+  <img align="center" style="padding-right: 15px;" alt="Surawit | Instagram" width="40px" src="./assets/instagram.gif" />
 </a>
 <a href="https://twitter.com/SYosaeng">
-  <img align="center" style="padding-right: 10px;"  alt="Surawit Discord" width="40px" src="./assets/twitter.gif" />
+  <img align="center" style="padding-right: 15px;"  alt="Surawit Discord" width="40px" src="./assets/twitter.gif" />
 </a>
 <a href="https://www.youtube.com/channel/UCt_m-i4rhpKJlUNSW0zF80Q">
   <img align="center" alt="Surawit Discord" width="40px" src="./assets/youtube.gif" />
