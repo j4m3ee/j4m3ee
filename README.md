@@ -44,7 +44,9 @@
   <img alt="vscode" src="./assets/vscode.gif" height="50">  
   <img alt="react" src="./assets/react.gif" height="50"> 
   <img alt="git" src="./assets/git.gif" height="50">
+  <img alt="firebase" src="./assets/firebase.gif" height="50">
   <img alt="node" src="./assets/node.gif" height="50">
+  
 </p>
 
 ---
