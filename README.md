@@ -22,8 +22,6 @@
 </div>
 
 <br />
-<br />
-<br />
 
 - 🔭 I’m currently studying at **king mongkut's institute of technology ladkrabang** (KMITL).
 - 🏳️‍🌈 I living in **Thailand**.
