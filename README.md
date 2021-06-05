@@ -23,9 +23,10 @@
 <br />
 
 - 🔭 I’m currently studying at **king mongkut's institute of technology ladkrabang** (KMITL).
-- 🏳️‍🌈 I living in **Thailand**.
-- 💬 Ask me about anything [here](https://github.com/j4m3ee/j4m3ee/issues)
-- 🌱 I’m currently learning **Smart Contract**
+- 🏳️‍🌈 I living in **Thailand.**
+- 🌱 I’m currently learning **Smart Contract.**
+- 💬 Ask me about anything [Here](https://github.com/j4m3ee/j4m3ee/issues).
+
 
 <br />
 
@@ -38,6 +39,7 @@
 </a>
 
 ---
+
 <p  align="center">
   <img alt="vscode" src="./assets/vscode.gif" height="50">  
   <img alt="react" src="./assets/react.gif" height="50"> 
@@ -48,8 +50,6 @@
 </p>
 
 ---
-
-
 <!--
 **j4m3ee/j4m3ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
