@@ -22,6 +22,10 @@
 
 <br />
 
+<p><b>👛 Wallet (bep20) = </b>0xaB9aAadF86cdF7aE8CE38AbD50c4362007b026a0</p>
+
+
+
 - 🔭 I’m currently studying at **king mongkut's institute of technology ladkrabang** (KMITL).
 - 🏳️‍🌈 I living in **Thailand.**
 - 🌱 I’m currently learning **Smart Contract.**
