@@ -22,7 +22,7 @@
 
 <br />
 
-<p><b>👛 Wallet (bep20) = </b>0xaB9aAadF86cdF7aE8CE38AbD50c4362007b026a0</p>
+<p><b>👛 Wallet Metamask = </b>0x30671C9dA49124F650C324fb2792c6a5A7177274</p>
 
 
 
