@@ -9,13 +9,16 @@
   <img align="center" alt="Surawit | Instagram" width="45px" src="./assets/instagram.gif" />
 </a>
 <a href="https://discord.gg/jPnx84uQuu">
-  <img align="center" alt="Surawit Discord" width="55px" src="./assets/discord.gif" />
+  <img align="center" alt="Surawit | Discord" width="55px" src="./assets/discord.gif" />
+</a>
+<a href="https://www.linkedin.com/in/surawit-yosaeng-223548221/">
+  <img align="center" alt="Surawit | LinkedIn" width="55px" src="./assets/linkedin.gif" />
 </a>
 <a href="https://twitter.com/SYosaeng">
-  <img align="center" alt="Surawit Discord" width="45px" src="./assets/twitter.gif" />
+  <img align="center" alt="Surawit | Twitter" width="45px" src="./assets/twitter.gif" />
 </a>
 <a href="https://www.youtube.com/channel/UCt_m-i4rhpKJlUNSW0zF80Q">
-  <img align="center" alt="Surawit Discord" width="45px" src="./assets/youtube.gif" />
+  <img align="center" alt="Surawit | Youtube" width="45px" src="./assets/youtube.gif" />
 </a>
 
 </div>
