@@ -23,19 +23,40 @@
 
 </div>
 
-<br />
+---
 
-<p><b>👛 Wallet Metamask = </b>0x30671C9dA49124F650C324fb2792c6a5A7177274</p>
+<div  align="center">
+
+## 🖊️ Certificate 📑
+
+<a href="https://www.credly.com/badges/c1af25a5-2841-48dd-b4a0-38bb65232aaa/public_url">
+  <img alt="CC" src="./assets/badge/certified-in-cybersecurity-cc.png" height="100">
+</a>
+<a href="https://certs.ine.com/4d820153-9700-4d0b-81cb-0466d8b6389f">
+  <img alt="eMAPT" src="./assets/badge/eMAPT.png" height="120">
+</a>
+<a href="https://www.credly.com/badges/69792a51-11c2-4714-ba4b-c969a9d556a8/public_url">
+  <img alt="MTA" src="./assets/badge/mta-security-fundamentals-certified-2021.png" height="100">
+</a>
+
+</div>
+
+---
 
 
+<div align="center">
 
-- 🔭 I’m currently studying at **king mongkut's institute of technology ladkrabang** (KMITL).
-- 🏳️‍🌈 I living in **Thailand.**
-- 🌱 I’m currently learning **Smart Contract.**
-- 💬 Ask me about anything [Here](https://github.com/j4m3ee/j4m3ee/issues).
+## 👌 Skill 📚
 
+  <img alt="vscode" src="./assets/vscode.gif" height="50">  
+  <img alt="react" src="./assets/react.gif" height="50"> 
+  <img alt="git" src="./assets/git.gif" height="50">
+  <img alt="firebase" src="./assets/firebase.gif" height="50">
+  <img alt="node" src="./assets/node.gif" height="50">
+  
+</div>
 
-<br />
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=j4m3ee&show_icons=true&include_all_commits=true&theme=slateorange" alt="Surawit's github stats" />
@@ -45,18 +66,16 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=j4m3ee&layout=compact&theme=slateorange&langs_count=10" />
 </a>
 
----
+- 🔭 I’m currently studying at **king mongkut's institute of technology ladkrabang** (KMITL).
+- 🏳️‍🌈 I living in **Thailand.**
+- 🌱 I’m currently learning **Smart Contract.**
+- 💬 Ask me about anything [Here](https://github.com/j4m3ee/j4m3ee/issues).
 
-<p  align="center">
-  <img alt="vscode" src="./assets/vscode.gif" height="50">  
-  <img alt="react" src="./assets/react.gif" height="50"> 
-  <img alt="git" src="./assets/git.gif" height="50">
-  <img alt="firebase" src="./assets/firebase.gif" height="50">
-  <img alt="node" src="./assets/node.gif" height="50">
-  
-</p>
+<br />
 
----
+<p><b>👛 Wallet Metamask = </b>0x30671C9dA49124F650C324fb2792c6a5A7177274</p>
+
+
 <!--
 **j4m3ee/j4m3ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
