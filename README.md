@@ -30,13 +30,13 @@
 <!-- ## 🖊️ Certificate 📑 -->
 
 <a href="https://www.credly.com/badges/c1af25a5-2841-48dd-b4a0-38bb65232aaa/public_url">
-  <img alt="CC" src="./assets/badge/certified-in-cybersecurity-cc.png" height="100" style="background-color:white;padding:10px;border-radius: 20px;">
+  <img alt="CC" src="./assets/badge/certified-in-cybersecurity-cc.png" height="100" style="background-color:white;padding:10px;border-radius:20px;">
 </a>
 <a href="https://certs.ine.com/4d820153-9700-4d0b-81cb-0466d8b6389f">
-  <img alt="eMAPT" src="./assets/badge/eMAPT.png" height="100" style="background-color:white;padding:10px;border-radius: 20px;">
+  <img alt="eMAPT" src="./assets/badge/eMAPT.png" height="100" style="background-color:white;padding:10px;border-radius:20px;">
 </a>
 <a href="https://www.credly.com/badges/69792a51-11c2-4714-ba4b-c969a9d556a8/public_url">
-  <img alt="MTA" src="./assets/badge/mta-security-fundamentals-certified-2021.png" height="100" style="background-color:white;padding:10px;border-radius: 20px;">
+  <img alt="MTA" src="./assets/badge/mta-security-fundamentals-certified-2021.png" height="100" style="background-color:white;padding:10px;border-radius:20px;">
 </a>
 
 </div>
