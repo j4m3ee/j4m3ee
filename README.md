@@ -66,7 +66,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=j4m3ee&layout=compact&theme=slateorange&langs_count=10" />
 </a>
 
-- 🔭 I’m currently studying at **king mongkut's institute of technology ladkrabang** (KMITL).
+- 🔭 I graduated from **king mongkut's institute of technology ladkrabang** (KMITL).
 - 🏳️‍🌈 I living in **Thailand.**
 - 🌱 I’m currently learning **Smart Contract.**
 - 💬 Ask me about anything [Here](https://github.com/j4m3ee/j4m3ee/issues).
