@@ -27,23 +27,23 @@
 
 <div align="center" style="background-color:white;">
 
-<!-- ## 🖊️ Certificate 📑 -->
+## 🖊️ My Certification 📑
 
+<a href="https://certs.ine.com/4d820153-9700-4d0b-81cb-0466d8b6389f">
+  <img alt="eMAPT" src="./assets/badge/eMAPT-Crop.png" height="100">
+</a>
 <a href="https://credentials.offsec.com/834e015f-ef48-4e44-a3fe-3d5886edf7aa#acc.XLkwBQMO">
   <img alt="OSCP" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136387621" height="100">
 </a>
 <a href="https://credentials.offsec.com/a49a009e-a3b4-4469-977d-ec0f11d8e1f7#acc.RYuKB2JD">
   <img alt="OSCP+" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136387635" height="100">
 </a>
-<!-- <a href="https://www.credly.com/badges/c1af25a5-2841-48dd-b4a0-38bb65232aaa/public_url">
-  <img alt="CC" src="./assets/badge/certified-in-cybersecurity-cc.png" height="100">
-</a> -->
-<a href="https://certs.ine.com/4d820153-9700-4d0b-81cb-0466d8b6389f">
-  <img alt="eMAPT" src="./assets/badge/eMAPT.png" height="120">
-</a>
 <a href="https://www.credly.com/badges/69792a51-11c2-4714-ba4b-c969a9d556a8/public_url">
   <img alt="MTA" src="./assets/badge/mta-security-fundamentals-certified-2021.png" height="100">
 </a>
+<!-- <a href="https://www.credly.com/badges/c1af25a5-2841-48dd-b4a0-38bb65232aaa/public_url">
+  <img alt="CC" src="./assets/badge/certified-in-cybersecurity-cc.png" height="100">
+</a> -->
 
 </div>
 
