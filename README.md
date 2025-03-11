@@ -1,31 +1,6 @@
-<div  align="center">
+<div align="center" style="background-color:white;">
 
 # <img align="center" width="36" height="36" src="./assets/fire.gif"/> Welcome to [Snap!](https://j4m3ee.github.io) git profile <img align="center" width="36" height="36" src="./assets/fire.gif"/>
-
-<a href="https://www.facebook.com/IJameSRW">
-  <img align="center" alt="Surawit | Facebook" width="45px" src="./assets/facebook.gif"/>
-</a>
-<a href="https://www.instagram.com/ijame.srw/">
-  <img align="center" alt="Surawit | Instagram" width="45px" src="./assets/instagram.gif" />
-</a>
-<a href="https://discord.gg/jPnx84uQuu">
-  <img align="center" alt="Surawit | Discord" width="55px" src="./assets/discord.gif" />
-</a>
-<a href="https://www.linkedin.com/in/surawit-yosaeng-223548221/">
-  <img align="center" alt="Surawit | LinkedIn" width="55px" src="./assets/linkedin.gif" />
-</a>
-<a href="https://twitter.com/SYosaeng">
-  <img align="center" alt="Surawit | Twitter" width="45px" src="./assets/twitter.gif" />
-</a>
-<a href="https://www.youtube.com/channel/UCt_m-i4rhpKJlUNSW0zF80Q">
-  <img align="center" alt="Surawit | Youtube" width="45px" src="./assets/youtube.gif" />
-</a>
-
-</div>
-
----
-
-<div align="center" style="background-color:white;">
 
 ## 🖊️ My Certification 📑
 
@@ -80,6 +55,26 @@
   
 </div>
 
+---
+
+<a href="https://www.facebook.com/IJameSRW">
+  <img align="center" alt="Surawit | Facebook" width="45px" src="./assets/facebook.gif"/>
+</a>
+<a href="https://www.instagram.com/ijame.srw/">
+  <img align="center" alt="Surawit | Instagram" width="45px" src="./assets/instagram.gif" />
+</a>
+<a href="https://discord.gg/jPnx84uQuu">
+  <img align="center" alt="Surawit | Discord" width="55px" src="./assets/discord.gif" />
+</a>
+<a href="https://www.linkedin.com/in/surawit-yosaeng-223548221/">
+  <img align="center" alt="Surawit | LinkedIn" width="55px" src="./assets/linkedin.gif" />
+</a>
+<a href="https://twitter.com/SYosaeng">
+  <img align="center" alt="Surawit | Twitter" width="45px" src="./assets/twitter.gif" />
+</a>
+<a href="https://www.youtube.com/channel/UCt_m-i4rhpKJlUNSW0zF80Q">
+  <img align="center" alt="Surawit | Youtube" width="45px" src="./assets/youtube.gif" />
+</a>
 
 <!--
 **j4m3ee/j4m3ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
