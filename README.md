@@ -38,6 +38,9 @@
 <a href="https://www.credly.com/badges/69792a51-11c2-4714-ba4b-c969a9d556a8/public_url">
   <img alt="MTA" src="./assets/badge/mta-security-fundamentals-certified-2021.png" height="100">
 </a>
+<a href="https://credentials.offsec.com/a49a009e-a3b4-4469-977d-ec0f11d8e1f7#acc.RYuKB2JD">
+  <img alt="OSCP+" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/136387635" height="100">
+</a>
 
 </div>
 
