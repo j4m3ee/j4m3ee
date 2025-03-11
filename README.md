@@ -49,6 +49,24 @@
 
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=j4m3ee&show_icons=true&include_all_commits=true&theme=slateorange" alt="Surawit's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=j4m3ee&layout=compact&theme=slateorange&langs_count=10" />
+</a>
+
+- 🔭 I graduated from **king mongkut's institute of technology ladkrabang** (KMITL).
+- 🏳️‍🌈 I living in **Thailand.**
+- 🌱 I’m currently learning **Cyber Security.**
+- 💬 Ask me about anything [Here](https://github.com/j4m3ee/j4m3ee/issues).
+
+<br />
+
+<p><b>👛 Wallet Metamask = </b>0x30671C9dA49124F650C324fb2792c6a5A7177274</p>
+
+---
 
 <div align="center">
 
@@ -61,25 +79,6 @@
   <img alt="node" src="./assets/node.gif" height="50">
   
 </div>
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=j4m3ee&show_icons=true&include_all_commits=true&theme=slateorange" alt="Surawit's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=j4m3ee&layout=compact&theme=slateorange&langs_count=10" />
-</a>
-
-- 🔭 I graduated from **king mongkut's institute of technology ladkrabang** (KMITL).
-- 🏳️‍🌈 I living in **Thailand.**
-- 🌱 I’m currently learning **Smart Contract.**
-- 💬 Ask me about anything [Here](https://github.com/j4m3ee/j4m3ee/issues).
-
-<br />
-
-<p><b>👛 Wallet Metamask = </b>0x30671C9dA49124F650C324fb2792c6a5A7177274</p>
 
 
 <!--
